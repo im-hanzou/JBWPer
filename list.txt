@@ -1,1 +1,2 @@
 http://static-dev.risis.io:8081
+https://www.google.com
