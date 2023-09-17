@@ -1,0 +1,1 @@
+http://static-dev.risis.io:8081
