@@ -1,6 +1,6 @@
 # JBWPer | CVE-2022-4060 - User Post Gallery
 Automatic Mass Tool for check and exploiting vulnerability in CVE-2022-4061 - JobBoardWP < 1.2.2 - Unauthenticated Arbitrary File Upload<br><br>
-<img src="https://github.com/im-hanzou/JBWPer/blob/main/jbwper.png" width=600></img><br>
+<img src="https://github.com/im-hanzou/JBWPer/blob/main/detail/jbwper.png" width=600></img><br>
 - Using GNU Parallel. You must have parallel for run this tool.<br>
 - <b>If you found error like "$'\r': command not found" just do "dos2unix jbwper.sh"</b>
 # Install Parallel
