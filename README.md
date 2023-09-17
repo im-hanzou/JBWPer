@@ -16,3 +16,5 @@ Automatic Mass Tool for check and exploiting vulnerability in CVE-2022-4061 - Jo
 - https://nvd.nist.gov/vuln/detail/CVE-2022-4061
 - https://wpscan.com/vulnerability/fec68e6e-f612-43c8-8301-80f7ae3be665
 - https://github.com/advisories/GHSA-3459-2j34-8x8g
+# Disclaimer:
+- <b><i>This tool is for educational purposes only. Use it responsibly and with proper authorization. The author is not responsible for any misuse.</b></i>
