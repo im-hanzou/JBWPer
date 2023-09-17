@@ -1,4 +1,4 @@
-# JBWPer | CVE-2022-4060 - User Post Gallery
+# JBWPer | CVE-2022-4061 - JobBoardWP
 Automatic Mass Tool for check and exploiting vulnerability in CVE-2022-4061 - JobBoardWP < 1.2.2 - Unauthenticated Arbitrary File Upload<br><br>
 <img src="https://github.com/im-hanzou/JBWPer/blob/main/detail/jbwper.png" width=600></img><br>
 - Using GNU Parallel. You must have parallel for run this tool.<br>
